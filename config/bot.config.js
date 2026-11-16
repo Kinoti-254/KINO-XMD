@@ -7,7 +7,7 @@ const prefix = configuredPrefix === undefined || configuredPrefix === "" ? "." :
 
 const channel = Object.freeze({
   name: "Byte Dev KE",
-  jid: "120363430518511561@newsletter"
+  jid: "120363409425500220@newsletter"
 });
 
 export default Object.freeze({
